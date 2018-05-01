@@ -1,5 +1,5 @@
 #write your code here
-n = 10
+n = 12
 def countdown(n)
   while n > 0
     puts "#{n} SECOND(S)!"
@@ -7,5 +7,5 @@ def countdown(n)
   end
 end
 
-phrase = "HAPPY NEW YEAR!"
-phrase
+puts "HAPPY NEW YEAR!"
+
