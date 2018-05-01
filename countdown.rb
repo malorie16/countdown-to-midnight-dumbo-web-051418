@@ -7,4 +7,5 @@ def countdown(n)
   end
 end
 
-"HAPPY NEW YEAR!"
+phrase = "HAPPY NEW YEAR!"
+phrase
