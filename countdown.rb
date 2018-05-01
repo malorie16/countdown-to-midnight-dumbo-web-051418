@@ -6,4 +6,5 @@ def countdown(n)
     n -= 1
   end
 end
-print "HAPPY NEW YEAR!"
+
+"HAPPY NEW YEAR!"
